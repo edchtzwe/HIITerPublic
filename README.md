@@ -22,20 +22,11 @@ A High-Intensity Interval Training (HIIT) lap manager built with Svelte.
 4. The timer will cycle between active/rest until complete
 5. Choose to repeat or start over when finished
 
-## Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
 ## Technologies
 - Svelte - Frontend framework
 - JavaScript - Core functionality
 - CSS - Styling
+- 
+<img width="893" height="561" alt="2025-08-14_23-30" src="https://github.com/user-attachments/assets/0055e4e3-1d57-47f0-b7c4-2ed5a01b5604" />
+<img width="1151" height="677" alt="2025-08-14_23-30_1" src="https://github.com/user-attachments/assets/c24a39cf-2aa9-4e49-b2a5-a57835259389" />
+<img width="1148" height="678" alt="2025-08-14_23-31" src="https://github.com/user-attachments/assets/3594284a-4466-4f6d-8034-6cfb959057c6" />
